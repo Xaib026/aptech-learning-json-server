@@ -1,0 +1,287 @@
+{
+  "location": [
+    {
+      "citykey": "khi",
+      "city": "Karachi",
+      "state": "Sindh",
+      "statekey": "sn"
+    },
+    {
+      "citykey": "hdd",
+      "city": "Hyderabad",
+      "state": "Sindh",
+      "statekey": "sn"
+    },
+    {
+      "citykey": "jam",
+      "city": "Jamshoro",
+      "state": "Sindh",
+      "statekey": "sn"
+    },
+    {
+      "citykey": "skz",
+      "city": "Sukkur",
+      "state": "Sindh",
+      "statekey": "sn"
+    },
+    {
+      "citykey": "lrk",
+      "city": "Larkana",
+      "state": "Sindh",
+      "statekey": "sn"
+    },
+    {
+      "citykey": "lhr",
+      "city": "Lahore",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "mul",
+      "city": "Multan",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "fsd",
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "rwp",
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "sga",
+      "city": "Sargodha",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "skt",
+      "city": "Sialkot",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "grw",
+      "city": "Gujranwala",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "wah",
+      "city": "Wah Cantt",
+      "state": "Punjab",
+      "statekey": "pj"
+    },
+    {
+      "citykey": "tmg",
+      "city": "Timergara",
+      "state": "Khyber Pakhtunkhwa",
+      "statekey": "kp"
+    }
+  ],
+  "courses": [
+    {
+      "coursetitle": "ACCP Prime 2.0",
+      "coursename": "ACCP Prime 2.0",
+      "type": "main"
+    },
+    {
+      "coursetitle": "ACCP HDSE",
+      "coursename": "Higher Diploma in Software Engineering",
+      "type": "main"
+    },
+    {
+      "coursetitle": "Smart Pro",
+      "coursename": "Smart Professional",
+      "type": "main"
+    },
+    {
+      "coursetitle": "STC",
+      "coursename": "Short Term Courses",
+      "type": "main"
+    },
+    {
+      "coursetitle": "Aviation & Hospitality",
+      "coursename": "Aviation & Hospitality",
+      "type": "other"
+    },
+    {
+      "coursetitle": "ACNS",
+      "coursename": "Hardwork & Networking",
+      "type": "other"
+    },
+    {
+      "coursetitle": "English Language",
+      "coursename": "English Language",
+      "type": "other"
+    }
+  ],
+  "languages": [
+    {
+      "name": "python",
+      "url": "https://preview.redd.it/v7g6ime1wtk61.jpg?auto=webp&s=25c8efc1f3a7210fb8586da9263439e411032119"
+    },
+    {
+      "name": "js",
+      "url": "https://media.zicxa.com/1555172"
+    },
+    {
+      "name": "javascript",
+      "url": "https://media.zicxa.com/1555172"
+    },
+    {
+      "name": "html",
+      "url": "https://wallpaperforu.com/wp-content/uploads/2021/03/Wallpaper-Code-Html-Computer-Internet-It-Ict-Pc-Hac25-scaled.jpg"
+    },
+    {
+      "name": "css",
+      "url": "https://c4.wallpaperflare.com/wallpaper/900/618/451/pixels-computer-screen-css-code-wallpaper-preview.jpg"
+    },
+    {
+      "name": "angular",
+      "url": "https://miro.medium.com/max/1200/1*2SExhAXj2uD-tS0auUdKmA.jpeg"
+    },
+    {
+      "name": "react",
+      "url": "https://miro.medium.com/max/1200/1*smuMxL6qzvl-OUxTfuxHUg.jpeg"
+    },
+    {
+      "name": "reactjs",
+      "url": "https://miro.medium.com/max/1200/1*smuMxL6qzvl-OUxTfuxHUg.jpeg"
+    },
+    {
+      "name": "bootstrap",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "Ethical Hacking",
+      "url": "https://images.wallpapersden.com/image/download/anonymous-hacker-working_bGllZ2mUmZqaraWkpJRpZW5rrWdoZWk.jpg"
+    },
+    {
+      "name": "Hacking",
+      "url": "https://c4.wallpaperflare.com/wallpaper/374/392/867/anarchy-computer-cyber-dark-wallpaper-preview.jpg"
+    },
+    {
+      "name": "Marketing",
+      "url": "https://i.pinimg.com/originals/e9/54/a9/e954a90943691fad70f0eae6cb4cb29c.jpg"
+    },
+    {
+      "name": "Digital Marketing",
+      "url": "https://www.smtc.smet.edu.sg/wp-content/uploads/2022/01/digital-marketing-new-startup-project-online-search-engine-optimisation_36325-2205.jpg"
+    },
+    {
+      "name": "Game",
+      "url": "https://cutewallpaper.org/21/joystick-wallpaper/Free-Images-4k-wallpaper,-buttons,-design,-electronic-.jpg"
+    },
+    {
+      "name": "Game Development",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "Android",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": ".net",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "mvc",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "asp",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "java",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "php",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "web development",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "web design",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "web designing",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "c",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "c++",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "c#",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "csharp",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "laravel",
+      "url": "https://wallpapers.com/images/hd/laravel-programming-art-gbnc8fnc9hcgjusi.jpg"
+    },
+    {
+      "name": "database",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "sql",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "mysql",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "c#",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "ms office",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "office",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "office automation",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "word",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "ms word",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "ms excel",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    },
+    {
+      "name": "excel",
+      "url": "https://livecanvas.com/wp-content/uploads/2021/06/Bootstrap-5-announce.png"
+    }
+  ]
+}

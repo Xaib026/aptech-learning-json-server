@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "aptechlearningdata",
+  "version": "1.0.0",
+  "description": "Aptech Learning Pakistan Official Website",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "json-server --watch db.json"
+  },
+  "author": "Shoaib Hussain",
+  "license": "ISC"
+}
